@@ -13,4 +13,4 @@ Within Agile approaches, we focus specifically on Kanban.  Kanban limits activit
 
 ### Questions or comments?
 
-Please contact Mike Heroux<maherou@sandia.gov>.
+Please contact Mike Heroux <maherou@sandia.gov>.
