@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Mock Agile Research Team Organization
 
-You can use the [editor on GitHub](https://github.com/MockAgileResearchTeamOrg/MockAgileResearchTeamOrg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This GitHub organization is intended to demonstrate how Agile methodologies can be applied to research team activities.  Agile methodologies emphasize short (measured in weeks) iterations where resources and time are fixed, and scope is adaptively managed across iterations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Within Agile approaches, we focus specifically on Kanban.  Kanban limits activities not by deadlines (promising to have a task done by a certain date) but by limiting how many activities are going on concurrently.  The rigor and scope of how to apply concurrent activity limits is up to the project team. leadership.  Limits should be applied only as they make sense, to improve team productivity and product sustainability.
 
-### Markdown
+### What you will find in this mock organization
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **Issues-only repo:** To manage team activities, this repo is used to create, manage and complete project tasks, at a level above product-specific issues.  It contains very few files.
+1. **Products:** There are two mock product repos that this research team works on.  A real team will typically have more.
+1. **Papers:** There is one paper repo.
+1. **Personal Repo:** Each transient team member should have an individual repo, to capture notes, bibliographies and thesis or dissertation.  Permanent team members can do so as well, if that makes sense.
 
-```markdown
-Syntax highlighted code block
+### Questions or comments?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MockAgileResearchTeamOrg/MockAgileResearchTeamOrg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact Mike Heroux<maherou@sandia.gov>.
